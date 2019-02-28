@@ -23,7 +23,7 @@
     </style>
 
     <style name="TextAppearanceInverted" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
-        <item name="android:textColor">@color/inverted</item>
+        <item name="android:textColor">@color/theme_accent</item>
     </style>
     <style name="TextAppearanceTransparent" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
         <item name="android:textColor">@android:color/transparent</item>
