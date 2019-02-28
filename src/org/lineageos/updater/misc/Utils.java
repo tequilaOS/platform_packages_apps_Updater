@@ -166,7 +166,7 @@ public class Utils {
     public static String getUpgradeBlockedURL(Context context) {
         String device = SystemProperties.get(Constants.PROP_NEXT_DEVICE,
                 SystemProperties.get(Constants.PROP_DEVICE));
-        return context.getString(R.string.blocked_update_info_url, device);
+        return context.getString(R.string.blocked_update_dialog_message, device);
     }
 
     public static String getChangelogURL(Context context) {
