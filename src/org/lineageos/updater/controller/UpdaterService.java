@@ -281,6 +281,7 @@ public class UpdaterService extends Service {
                 mNotificationStyle.bigText(text);
                 mNotificationBuilder.setStyle(mNotificationStyle);
                 mNotificationBuilder.setSmallIcon(android.R.drawable.stat_sys_download);
+                mNotificationBuilder.mActions.clear();
                 mNotificationBuilder.addAction(android.R.drawable.ic_media_pause,
                         getString(R.string.pause_button),
                         getPausePendingIntent(update.getDownloadId()));
@@ -330,11 +331,11 @@ public class UpdaterService extends Service {
                 break;
             }
             case VERIFYING: {
+                mNotificationBuilder.mActions.clear();
                 mNotificationBuilder.setProgress(0, 0, true);
                 mNotificationStyle.setSummaryText(null);
                 mNotificationBuilder.setStyle(mNotificationStyle);
                 mNotificationBuilder.setSmallIcon(R.drawable.ic_system_update);
-                mNotificationBuilder.mActions.clear();
                 String text = getString(R.string.verifying_download_notification);
                 mNotificationStyle.bigText(text);
                 mNotificationBuilder.setTicker(text);
@@ -343,6 +344,7 @@ public class UpdaterService extends Service {
             }
             case VERIFIED: {
                 stopForeground(STOP_FOREGROUND_DETACH);
+                mNotificationBuilder.mActions.clear();
                 mNotificationBuilder.setStyle(null);
                 mNotificationBuilder.setSmallIcon(R.drawable.ic_system_update);
                 mNotificationBuilder.setProgress(0, 0, false);
@@ -357,6 +359,7 @@ public class UpdaterService extends Service {
             }
             case VERIFICATION_FAILED: {
                 stopForeground(STOP_FOREGROUND_DETACH);
+                mNotificationBuilder.mActions.clear();
                 mNotificationBuilder.setStyle(null);
                 mNotificationBuilder.setSmallIcon(android.R.drawable.stat_sys_warning);
                 mNotificationBuilder.setProgress(0, 0, false);
@@ -399,6 +402,7 @@ public class UpdaterService extends Service {
                 mNotificationBuilder.setProgress(0, 0, false);
                 String text = getString(R.string.installing_update_finished);
                 mNotificationBuilder.setContentText(text);
+                mNotificationBuilder.mActions.clear();
                 mNotificationBuilder.addAction(R.drawable.ic_system_update,
                         getString(R.string.reboot),
                         getRebootPendingIntent());
@@ -426,6 +430,7 @@ public class UpdaterService extends Service {
                 mNotificationBuilder.setTicker(text);
                 mNotificationBuilder.setOngoing(false);
                 mNotificationBuilder.setAutoCancel(true);
+                mNotificationBuilder.mActions.clear();
                 mNotificationManager.notify(NOTIFICATION_ID, mNotificationBuilder.build());
                 tryStopSelf();
                 break;
