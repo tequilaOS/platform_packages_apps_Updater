@@ -46,7 +46,7 @@ public final class Constants {
     public static final String PROP_RELEASE_TYPE = "ro.lineage.releasetype";
     public static final String PROP_UPDATER_ALLOW_DOWNGRADING = "lineage.updater.allow_downgrading";
     public static final String PROP_UPDATER_URI = "lineage.updater.uri";
-    public static final String PROP_DISABLE_UNCRYPT = "sys.ota.disable_uncrypt";
+    public static final String PROP_RECOVERY_UPDATE = "persist.sys.recovery_update";
 
     public static final String PREF_INSTALL_OLD_TIMESTAMP = "install_old_timestamp";
     public static final String PREF_INSTALL_NEW_TIMESTAMP = "install_new_timestamp";
