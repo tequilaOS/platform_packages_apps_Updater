@@ -107,8 +107,8 @@
 
     <Button
         android:id="@+id/check_update"
-        android:layout_width="wrap_content"
-        android:layout_height="52dp"
+        android:layout_width="130dp"
+        android:layout_height="45dp"
         android:layout_gravity="right|bottom"
         android:layout_margin="14dp"
         android:padding="12dp"
