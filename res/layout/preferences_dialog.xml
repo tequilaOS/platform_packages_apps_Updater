@@ -5,6 +5,7 @@
     android:orientation="vertical"
     android:paddingEnd="24dp"
     android:paddingStart="24dp"
+    android:background="@color/theme_primary"
     android:paddingTop="16dp">
 
     <LinearLayout
