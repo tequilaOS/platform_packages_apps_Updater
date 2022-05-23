@@ -39,7 +39,6 @@ public class UpdatesDbHelper extends SQLiteOpenHelper {
         public static final String COLUMN_NAME_PATH = "path";
         public static final String COLUMN_NAME_DOWNLOAD_ID = "download_id";
         public static final String COLUMN_NAME_TIMESTAMP = "timestamp";
-        public static final String COLUMN_NAME_TYPE = "type";
         public static final String COLUMN_NAME_VERSION = "version";
         public static final String COLUMN_NAME_SIZE = "size";
     }
@@ -51,7 +50,6 @@ public class UpdatesDbHelper extends SQLiteOpenHelper {
                     UpdateEntry.COLUMN_NAME_PATH + " TEXT," +
                     UpdateEntry.COLUMN_NAME_DOWNLOAD_ID + " TEXT NOT NULL UNIQUE," +
                     UpdateEntry.COLUMN_NAME_TIMESTAMP + " INTEGER," +
-                    UpdateEntry.COLUMN_NAME_TYPE + " TEXT," +
                     UpdateEntry.COLUMN_NAME_VERSION + " TEXT," +
                     UpdateEntry.COLUMN_NAME_SIZE + " INTEGER)";
 
@@ -87,7 +85,6 @@ public class UpdatesDbHelper extends SQLiteOpenHelper {
         values.put(UpdateEntry.COLUMN_NAME_PATH, update.getFile().getAbsolutePath());
         values.put(UpdateEntry.COLUMN_NAME_DOWNLOAD_ID, update.getDownloadId());
         values.put(UpdateEntry.COLUMN_NAME_TIMESTAMP, update.getTimestamp());
-        values.put(UpdateEntry.COLUMN_NAME_TYPE, update.getType());
         values.put(UpdateEntry.COLUMN_NAME_VERSION, update.getVersion());
         values.put(UpdateEntry.COLUMN_NAME_SIZE, update.getFileSize());
     }
@@ -123,7 +120,6 @@ public class UpdatesDbHelper extends SQLiteOpenHelper {
                 UpdateEntry.COLUMN_NAME_PATH,
                 UpdateEntry.COLUMN_NAME_DOWNLOAD_ID,
                 UpdateEntry.COLUMN_NAME_TIMESTAMP,
-                UpdateEntry.COLUMN_NAME_TYPE,
                 UpdateEntry.COLUMN_NAME_VERSION,
                 UpdateEntry.COLUMN_NAME_STATUS,
                 UpdateEntry.COLUMN_NAME_SIZE,
@@ -142,8 +138,6 @@ public class UpdatesDbHelper extends SQLiteOpenHelper {
                 update.setDownloadId(cursor.getString(index));
                 index = cursor.getColumnIndex(UpdateEntry.COLUMN_NAME_TIMESTAMP);
                 update.setTimestamp(cursor.getLong(index));
-                index = cursor.getColumnIndex(UpdateEntry.COLUMN_NAME_TYPE);
-                update.setType(cursor.getString(index));
                 index = cursor.getColumnIndex(UpdateEntry.COLUMN_NAME_VERSION);
                 update.setVersion(cursor.getString(index));
                 index = cursor.getColumnIndex(UpdateEntry.COLUMN_NAME_STATUS);
