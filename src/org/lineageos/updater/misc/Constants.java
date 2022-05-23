@@ -42,7 +42,6 @@ public final class Constants {
     public static final String PROP_BUILD_VERSION = "ro.lineage.build.version";
     public static final String PROP_DEVICE = "ro.lineage.device";
     public static final String PROP_NEXT_DEVICE = "ro.updater.next_device";
-    public static final String PROP_RELEASE_TYPE = "ro.lineage.releasetype";
     public static final String PROP_UPDATER_ALLOW_DOWNGRADING = "lineage.updater.allow_downgrading";
     public static final String PROP_UPDATER_URI = "lineage.updater.uri";
     public static final String PROP_RECOVERY_UPDATE = "persist.sys.recovery_update";

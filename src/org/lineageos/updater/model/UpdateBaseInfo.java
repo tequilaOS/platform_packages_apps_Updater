@@ -22,8 +22,6 @@ public interface UpdateBaseInfo {
 
     long getTimestamp();
 
-    String getType();
-
     String getVersion();
 
     String getDownloadUrl();
