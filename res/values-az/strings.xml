@@ -51,7 +51,6 @@
     <string name="menu_delete_update">Sil</string>
     <string name="menu_copy_url">URL-ni Kopyala</string>
     <string name="menu_export_update">Yeniləməni köçür</string>
-    <string name="menu_show_changelog">Dəyişiklik jurnalını göstər</string>
     <string name="menu_ab_perf_mode">Üstünlüyü yeniləmə prosesinə ver</string>
     <string name="snack_updates_found">Yeniləmə tapıldı</string>
     <string name="snack_no_updates_found">Yeniləmə yoxdur</string>

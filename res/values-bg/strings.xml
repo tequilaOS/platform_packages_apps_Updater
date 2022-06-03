@@ -51,7 +51,6 @@
     <string name="menu_delete_update">Изтриване</string>
     <string name="menu_copy_url">Копирай адреса</string>
     <string name="menu_export_update">Експортиране на актуализация</string>
-    <string name="menu_show_changelog">Покажи промените</string>
     <string name="menu_ab_perf_mode">Приоритет на процеса на актуализиране</string>
     <string name="snack_updates_found">Намерена е нова актуализация</string>
     <string name="snack_no_updates_found">Няма нови актуализации</string>

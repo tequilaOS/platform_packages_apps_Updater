@@ -51,7 +51,6 @@
     <string name="menu_delete_update">Fshije</string>
     <string name="menu_copy_url">Kopjo URL</string>
     <string name="menu_export_update">Eksporto përditësimin</string>
-    <string name="menu_show_changelog">Shfaq ndryshimet</string>
     <string name="menu_ab_perf_mode">Jepi përparësi përditësimit</string>
     <string name="snack_updates_found">Ka përditësime të reja</string>
     <string name="snack_no_updates_found">Nuk u gjet asnjë përditësim i ri</string>

@@ -6,8 +6,4 @@
         android:title="@string/menu_preferences"
         android:icon="@drawable/ic_preferences"
         app:showAsAction="always" />
-    <item
-        android:id="@+id/menu_show_changelog"
-        android:title="@string/menu_show_changelog"
-        app:showAsAction="never" />
 </menu>

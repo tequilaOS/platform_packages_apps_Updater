@@ -51,7 +51,6 @@
     <string name="menu_delete_update">ลบ</string>
     <string name="menu_copy_url">คัดลอก URL</string>
     <string name="menu_export_update">ส่งออกการอัปเดต</string>
-    <string name="menu_show_changelog">แสดงการเปลี่ยนแปลง</string>
     <string name="menu_ab_perf_mode">จัดลำดับความสำคัญของกระบวนการอัพเดต</string>
     <string name="snack_updates_found">ไม่พบการอัปเดตใหม่</string>
     <string name="snack_no_updates_found">ไม่พบการอัปเดตใหม่</string>

@@ -51,7 +51,6 @@
     <string name="menu_delete_update">Elimina</string>
     <string name="menu_copy_url">Copia l\'URL</string>
     <string name="menu_export_update">Exporta l\'actualització</string>
-    <string name="menu_show_changelog">Mostra el registre de canvis</string>
     <string name="menu_ab_perf_mode">Prioritza el procés d\'actualització</string>
     <string name="snack_updates_found">No s\'han trobat noves actualitzacions</string>
     <string name="snack_no_updates_found">No s\'han trobat noves actualitzacions</string>

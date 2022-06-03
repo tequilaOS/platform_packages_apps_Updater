@@ -51,7 +51,6 @@
     <string name="menu_delete_update">Удалить</string>
     <string name="menu_copy_url">Копировать URL-адрес</string>
     <string name="menu_export_update">Экспорт обновлений</string>
-    <string name="menu_show_changelog">Показать журнал изменений</string>
     <string name="menu_ab_perf_mode">Приоритет процесса обновления</string>
     <string name="snack_updates_found">Доступно обновление</string>
     <string name="snack_no_updates_found">Обновлений не найдено</string>

@@ -51,7 +51,6 @@
     <string name="menu_delete_update">Supprimer</string>
     <string name="menu_copy_url">Copier l\'URL</string>
     <string name="menu_export_update">Exporter la mise à jour</string>
-    <string name="menu_show_changelog">Afficher l\'historique des modifications</string>
     <string name="menu_ab_perf_mode">Privilégier le processus de mise à jour</string>
     <string name="snack_updates_found">Nouvelles mises à jour disponibles</string>
     <string name="snack_no_updates_found">Aucune nouvelle mise à jour disponible</string>

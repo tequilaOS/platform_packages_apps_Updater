@@ -49,7 +49,6 @@
     <string name="menu_delete_update">Desaniciar</string>
     <string name="menu_copy_url">Copiar URL</string>
     <string name="menu_export_update">Esportar anovamientu</string>
-    <string name="menu_show_changelog">Amosar rexistru de cambeos</string>
     <string name="menu_ab_perf_mode">Priorizar el procesu d\'anovamientu</string>
     <string name="snack_updates_found">Alcontráronse anovamientos nuevos</string>
     <string name="snack_no_updates_found">Nun s\'alcontraron anovamientos</string>
