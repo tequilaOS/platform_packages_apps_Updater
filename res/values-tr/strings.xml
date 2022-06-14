@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2017 The LineageOS Project
+     Copyright (C) 2017-2020 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -17,6 +17,14 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Güncelleyici</string>
     <string name="display_name">Güncelleyici</string>
+    <!-- Directory where the update files will be downloaded and stored.
+         WARNING: The application can and will delete any unknown file. -->
+    <!-- Directory where the downloads will be exported to.
+         The path is relative to the root of the external storage.-->
+    <!--
+        Optional placeholders replaced at runtime:
+          {device} - Device name
+    -->
     <string name="verification_failed_notification">Doğrulama başarısız</string>
     <string name="verifying_download_notification">Güncelleme doğrulanıyor</string>
     <string name="downloading_notification">İndiriliyor</string>
@@ -27,7 +35,6 @@
     <string name="update_failed_notification">Güncelleme başarısız</string>
     <string name="installation_suspended_notification">Kurulum askıya alındı</string>
     <string name="new_updates_found_title">Yeni güncellemeler</string>
-    <string name="text_download_speed">%1$s, %2$s/s</string>
     <string name="pause_button">Duraklat</string>
     <string name="resume_button">Devam</string>
     <string name="suspend_button">Askıya al</string>
@@ -62,12 +69,9 @@
     <string name="header_title_text">tequilaOS\n%1$s</string>
     <string name="header_android_version">Android <xliff:g id="version" example="7.1.2">%1$s</xliff:g></string>
     <string name="header_last_updates_check">Son kontrol zamanı: <xliff:g id="date" example="1 January 1970">%1$s</xliff:g> (<xliff:g id="time" example="01:23">%2$s</xliff:g>)</string>
-    <string name="list_build_version">tequilaOS <xliff:g id="version" example="14.1">%1$s</xliff:g></string>
-    <string name="list_build_version_date">tequilaOS <xliff:g id="version" example="14.1">%1$s</xliff:g> - <xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
     <string name="list_download_progress_new"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> / <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> • <xliff:g id="percentage" example="56">%3$s</xliff:g></string>
     <string name="list_download_progress_eta_new"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> / <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> (<xliff:g id="eta" example="3 minutes left">%3$s</xliff:g>) • <xliff:g id="percentage" example="56">%4$s</xliff:g></string>
     <string name="list_verifying_update">Güncelleme doğrulanıyor</string>
-    <string name="list_no_updates">Yeni güncelleme bulunamadı. El ile yeni güncellemeleri kontrol etmek için Yenile tuşunu kullanın.</string>
     <string name="action_download">İndir</string>
     <string name="action_pause">Duraklat</string>
     <string name="action_resume">Devam et</string>
