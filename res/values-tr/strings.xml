@@ -35,12 +35,14 @@
     <string name="update_failed_notification">Güncelleme başarısız</string>
     <string name="installation_suspended_notification">Kurulum askıya alındı</string>
     <string name="new_updates_found_title">Yeni güncellemeler</string>
+    <string name="text_download_speed">%1$s, %2$s/sn</string>
+    <string name="update_button">Güncellemeleri denetle</string>
     <string name="pause_button">Duraklat</string>
     <string name="resume_button">Devam</string>
     <string name="suspend_button">Askıya al</string>
     <string name="installing_update">Güncelleştirme paketi yükleniyor</string>
     <string name="installing_update_error">Yükleme hatası</string>
-    <string name="installing_update_finished">Güncelleştirme yüklü</string>
+    <string name="installing_update_finished">Güncelleme yüklendi</string>
     <string name="finalizing_package">Paket yükleme tamamlanıyor</string>
     <string name="preparing_ota_first_boot">Ön yükleme için hazırlanıyor</string>
     <string name="dialog_prepare_zip_message">Güncelleme ön hazırlığı</string>
@@ -59,7 +61,9 @@
     <string name="menu_copy_url">URL adresini kopyala</string>
     <string name="menu_export_update">Güncellemeyi dışarı aktar</string>
     <string name="menu_ab_perf_mode">Güncelleme sürecini öncelikli hale getir</string>
-    <string name="snack_updates_found">Yeni güncelleştirmeler bulundu</string>
+    <string name="menu_update_recovery">Kurtarma modunu güncelle</string>
+    <string name="toast_forced_update_recovery">Bu cihazda Lineage kurtarma modu güncellemelerini devre dışı bırakmak imkansızdır.</string>
+    <string name="snack_updates_found">Yeni güncelleme mevcut</string>
     <string name="snack_no_updates_found">Yeni güncelleme bulunamadı</string>
     <string name="snack_updates_check_failed">Güncelleme kontrolü başarısız oldu. Lütfen internet bağlantınızı kontrol edin ve daha sonra tekrar deneyin.</string>
     <string name="snack_download_failed">Güncelleme indirilemedi. Lütfen internet bağlantınızı kontrol edin ve daha sonra tekrar deneyin.</string>
@@ -67,8 +71,11 @@
     <string name="snack_download_verified">İndirme tamamlandı.</string>
     <string name="snack_update_not_installable">Bu güncelleştirme mevcut yapı üstüne kurulamaz.</string>
     <string name="header_title_text">tequilaOS\n%1$s</string>
-    <string name="header_android_version">Android <xliff:g id="version" example="7.1.2">%1$s</xliff:g></string>
+    <string name="header_android_version">Android sürümü: <xliff:g id="version" example="7.1.2">%1$s</xliff:g></string>
+    <string name="header_security_patch">Güvenlik yaması düzeyi: <xliff:g id="patch" example="January 5 2019">%1$s</xliff:g></string>
     <string name="header_last_updates_check">Son kontrol zamanı: <xliff:g id="date" example="1 January 1970">%1$s</xliff:g> (<xliff:g id="time" example="01:23">%2$s</xliff:g>)</string>
+    <string name="list_build_version">tequilaOS <xliff:g id="version" example="14.1">%1$s</xliff:g></string>
+    <string name="list_build_version_date">tequilaOS <xliff:g id="version" example="14.1">%1$s</xliff:g> - <xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
     <string name="list_download_progress_new"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> / <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> • <xliff:g id="percentage" example="56">%3$s</xliff:g></string>
     <string name="list_download_progress_eta_new"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> / <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> (<xliff:g id="eta" example="3 minutes left">%3$s</xliff:g>) • <xliff:g id="percentage" example="56">%4$s</xliff:g></string>
     <string name="list_verifying_update">Güncelleme doğrulanıyor</string>
