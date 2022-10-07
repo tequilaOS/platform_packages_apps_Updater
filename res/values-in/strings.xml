@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2017 The LineageOS Project
+     Copyright (C) 2017-2020 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -28,6 +28,7 @@
     <string name="installation_suspended_notification">Pemasangan ditunda</string>
     <string name="new_updates_found_title">Pembaruan baru</string>
     <string name="text_download_speed">%1$s, %2$s/d</string>
+    <string name="update_button">Periksa pembaruan</string>
     <string name="pause_button">Jeda</string>
     <string name="resume_button">Lanjutkan</string>
     <string name="suspend_button">Tunda</string>
@@ -52,6 +53,8 @@
     <string name="menu_copy_url">Salin URL</string>
     <string name="menu_export_update">Ekspor pembaruan</string>
     <string name="menu_ab_perf_mode">Prioritaskan proses pembaruan</string>
+    <string name="menu_update_recovery">Perbarui recovery</string>
+    <string name="toast_forced_update_recovery">Tidak mungkin untuk menonaktifkan pembaruan Lineage Recovery di perangkat ini.</string>
     <string name="snack_updates_found">Pembaruan baru ditemukan</string>
     <string name="snack_no_updates_found">Tidak ada pembaruan baru ditemukan</string>
     <string name="snack_updates_check_failed">Pemeriksaan pembaruan gagal. Silakan periksa koneksi Internet Anda dan coba lagi nanti.</string>
@@ -61,13 +64,13 @@
     <string name="snack_update_not_installable">Pembaruan ini tidak dapat dipasang di atas pembuatan saat ini.</string>
     <string name="header_title_text">tequilaOS\n%1$s</string>
     <string name="header_android_version">Android <xliff:g id="version" example="7.1.2">%1$s </xliff:g></string>
+    <string name="header_security_patch">Tingkat level patch keamanan: <xliff:g id="patch" example="January 5 2019">%1$s</xliff:g></string>
     <string name="header_last_updates_check">Terakhir diperiksa: <xliff:g id="date" example="1 January 1970">%1$s </xliff:g> (<xliff:g id="time" example="01:23">%2$s </xliff:g>)</string>
     <string name="list_build_version">tequilaOS <xliff:g id="version" example="14.1">%1$s</xliff:g></string>
     <string name="list_build_version_date">tequilaOS <xliff:g id="version" example="14.1">%1$s</xliff:g> - <xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
     <string name="list_download_progress_new"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> dari <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> • <xliff:g id="percentage" example="56">%3$s</xliff:g></string>
     <string name="list_download_progress_eta_new"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> dari <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> (<xliff:g id="duration" example="3 minutes">%3$s</xliff:g> lagi) • <xliff:g id="percentage" example="56">%4$s</xliff:g></string>
     <string name="list_verifying_update">Memverifikasi pembaruan</string>
-    <string name="list_no_updates">Pembaruan tidak ditemukan. Untuk memeriksa pembaruan secara manual, gunakan tombol Segarkan.</string>
     <string name="action_download">Unduh</string>
     <string name="action_pause">Jeda</string>
     <string name="action_resume">Lanjutkan</string>
