@@ -51,7 +51,6 @@
     <string name="menu_delete_update">Изтриване</string>
     <string name="menu_copy_url">Копирай адреса</string>
     <string name="menu_export_update">Експортиране на актуализация</string>
-    <string name="menu_show_changelog">Покажи промените</string>
     <string name="menu_ab_perf_mode">Приоритет на процеса на актуализиране</string>
     <string name="menu_update_recovery">Актуализиране на recovery</string>
     <string name="toast_forced_update_recovery">Невъзможно е да деактивирате актуализациите на tequila recovery на това устройство.</string>

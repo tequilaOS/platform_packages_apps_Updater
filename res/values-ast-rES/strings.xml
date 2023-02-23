@@ -51,7 +51,6 @@
     <string name="menu_delete_update">Desaniciar</string>
     <string name="menu_copy_url">Copiar la URL</string>
     <string name="menu_export_update">Esportar l\'anovamientu</string>
-    <string name="menu_show_changelog">Amosar el rexistru de cambeos</string>
     <string name="menu_ab_perf_mode">Priorizar el procesu d\'anovamientu</string>
     <string name="menu_update_recovery">Anovar el recovery</string>
     <string name="toast_forced_update_recovery">Ye imposible desactivar los anovamientos del recovery de Lineage nesti preséu.</string>

@@ -51,7 +51,6 @@
     <string name="menu_delete_update">Löschen</string>
     <string name="menu_copy_url">URL in Zwischenablage kopieren</string>
     <string name="menu_export_update">Update exportieren</string>
-    <string name="menu_show_changelog">Changelog anzeigen</string>
     <string name="menu_ab_perf_mode">Updateprozess priorisieren</string>
     <string name="menu_update_recovery">Recovery aktualisieren</string>
     <string name="toast_forced_update_recovery">Es ist nicht möglich, die Updates vom Lineage-Recovery auf diesem Gerät zu deaktivieren.</string>

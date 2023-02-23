@@ -47,7 +47,6 @@
     <string name="menu_delete_update">Slet</string>
     <string name="menu_copy_url">Kopiér URL</string>
     <string name="menu_export_update">Eksportér opdatering</string>
-    <string name="menu_show_changelog">Vis ændringslog</string>
     <string name="menu_ab_perf_mode">Prioritér opdateringsproces</string>
     <string name="menu_update_recovery">Opdatér gendannelse</string>
     <string name="toast_forced_update_recovery">Det er umuligt at deaktivere Lineage Gendannelse opdateringer på denne enhed.</string>

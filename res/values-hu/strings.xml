@@ -52,7 +52,6 @@ illetve, ha éppen tölt, akkor még <xliff:g id="percent_charging">%2$d</xliff:
     <string name="menu_delete_update">Törlés</string>
     <string name="menu_copy_url">A webcím másolása</string>
     <string name="menu_export_update">A frissítés exportálása</string>
-    <string name="menu_show_changelog">A változások listájának megjelenítése</string>
     <string name="menu_ab_perf_mode">Állítsa fontossági sorrendbe a frissítési folyamatot</string>
     <string name="menu_update_recovery">Recovery-frissítés</string>
     <string name="toast_forced_update_recovery">Ezen a készüléken nem lehet letiltani a tequila recovery frissítéseket.</string>

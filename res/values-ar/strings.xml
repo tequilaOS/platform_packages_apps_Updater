@@ -51,7 +51,6 @@
     <string name="menu_delete_update">حذف</string>
     <string name="menu_copy_url">نسخ الرابط</string>
     <string name="menu_export_update">تصدير التحديث</string>
-    <string name="menu_show_changelog">إظهار التغييرات</string>
     <string name="menu_ab_perf_mode">إعطاء الأولوية لعملية التحديث</string>
     <string name="menu_update_recovery">تحديث وضع الاسترداد</string>
     <string name="toast_forced_update_recovery">من المستحيل تعطيل تحديثات tequila recovery على هذا الجهاز</string>

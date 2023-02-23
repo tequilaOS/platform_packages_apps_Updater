@@ -237,11 +237,6 @@ public class UpdatesActivity extends UpdatesListActivity {
         } else if (itemId == R.id.menu_preferences) {
             showPreferencesDialog();
             return true;
-        } else if (itemId == R.id.menu_show_changelog) {
-            Intent openUrl = new Intent(Intent.ACTION_VIEW,
-                    Uri.parse(Utils.getChangelogURL(this)));
-            startActivity(openUrl);
-            return true;
         }
         return super.onOptionsItemSelected(item);
     }

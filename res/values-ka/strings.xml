@@ -51,7 +51,6 @@
     <string name="menu_delete_update">წაშლა</string>
     <string name="menu_copy_url">ბმულის ასლი</string>
     <string name="menu_export_update">განახლების გატანა</string>
-    <string name="menu_show_changelog">ცვლილებების ჩვენება</string>
     <string name="menu_ab_perf_mode">განახლებისთვის უპირატესობის მინიჭება</string>
     <string name="menu_update_recovery">აღმდგენის განახლება</string>
     <string name="toast_forced_update_recovery">ვერ გაითიშება Lineage-აღმდგენის განახლებები ამ მოწყობილობაზე.</string>

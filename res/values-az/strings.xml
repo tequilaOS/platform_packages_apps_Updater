@@ -51,7 +51,6 @@
     <string name="menu_delete_update">Sil</string>
     <string name="menu_copy_url">URL-ni Kopyala</string>
     <string name="menu_export_update">Güncəlləməni xaricə köçür</string>
-    <string name="menu_show_changelog">Dəyişiklik jurnalını göstər</string>
     <string name="menu_ab_perf_mode">Üstünlüyü güncəlləmə prosesinə ver</string>
     <string name="menu_update_recovery">Bərpa rejimini güncəllə</string>
     <string name="toast_forced_update_recovery">Bu cihazda Lineage Bərpa güncəlləmələrini sıradan çıxartmaq mümkün deyil.</string>

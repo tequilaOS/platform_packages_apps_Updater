@@ -51,7 +51,6 @@
     <string name="menu_delete_update">Удалить</string>
     <string name="menu_copy_url">Скопировать URL</string>
     <string name="menu_export_update">Экспорт обновлений</string>
-    <string name="menu_show_changelog">Показать журнал изменений</string>
     <string name="menu_ab_perf_mode">Приоритет процесса обновления</string>
     <string name="menu_update_recovery">Обновить рекавери</string>
     <string name="toast_forced_update_recovery">Отключить обновления tequila recovery на этом устройстве невозможно.</string>

@@ -51,7 +51,6 @@
     <string name="menu_delete_update">Izbriši</string>
     <string name="menu_copy_url">Kopiraj URL</string>
     <string name="menu_export_update">Izvozi posodobitev</string>
-    <string name="menu_show_changelog">Prikaži dnevnik sprememb</string>
     <string name="menu_ab_perf_mode">Daj prednost posodobitvenemu postopku</string>
     <string name="menu_update_recovery">Posodobi obnovitev</string>
     <string name="toast_forced_update_recovery">Ni mogoče onemogočiti posodobitev obnovitve Lineage na tej napravi.</string>

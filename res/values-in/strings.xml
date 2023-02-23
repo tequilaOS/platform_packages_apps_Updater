@@ -51,7 +51,6 @@
     <string name="menu_delete_update">Hapus</string>
     <string name="menu_copy_url">Salin URL</string>
     <string name="menu_export_update">Ekspor pembaruan</string>
-    <string name="menu_show_changelog">Tampilkan catatan perubahan</string>
     <string name="menu_ab_perf_mode">Prioritaskan proses pembaruan</string>
     <string name="menu_update_recovery">Perbarui Recovery</string>
     <string name="toast_forced_update_recovery">Tidak mungkin untuk menonaktifkan pembaruan tequila recovery di perangkat ini.</string>

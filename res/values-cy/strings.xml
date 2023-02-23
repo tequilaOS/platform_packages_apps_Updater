@@ -51,7 +51,6 @@
     <string name="menu_delete_update">Dileu</string>
     <string name="menu_copy_url">Copïo\'r URL</string>
     <string name="menu_export_update">Allforio\'r diweddariad</string>
-    <string name="menu_show_changelog">Dangos log newid</string>
     <string name="menu_ab_perf_mode">Blaenoriaethu\'r broses diweddaru</string>
     <string name="menu_update_recovery">Adfer y modd diweddaru</string>
     <string name="toast_forced_update_recovery">Mae\'n amhosibl analluogi diweddariadau Adfer Lineage ar y ddyfais hon.</string>

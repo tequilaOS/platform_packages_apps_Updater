@@ -51,7 +51,6 @@
     <string name="menu_delete_update">Fuortsmite</string>
     <string name="menu_copy_url">URL kopiearje</string>
     <string name="menu_export_update">Fernijing eksportearje</string>
-    <string name="menu_show_changelog">Changelog toane</string>
     <string name="menu_ab_perf_mode">Fernijingsproses prioriteit jaan</string>
     <string name="snack_updates_found">Nije fernijingen fûn</string>
     <string name="snack_no_updates_found">Gjin nije fernijingen fûn</string>

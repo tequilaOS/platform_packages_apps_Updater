@@ -51,7 +51,6 @@
     <string name="menu_delete_update">Verwijderen</string>
     <string name="menu_copy_url">URL kopiëren</string>
     <string name="menu_export_update">Update exporteren</string>
-    <string name="menu_show_changelog">Changelog weergeven</string>
     <string name="menu_ab_perf_mode">Geef prioriteit aan het updateproces</string>
     <string name="menu_update_recovery">Recovery bijwerken</string>
     <string name="toast_forced_update_recovery">Het is onmogelijk om tequila recovery updates op dit apparaat uit te schakelen.</string>
