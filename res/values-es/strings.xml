@@ -105,5 +105,6 @@
     <string name="ongoing_channel_title">Descargas en curso</string>
     <string name="update_failed_channel_title">Error en la actualización</string>
     <string name="info_dialog_title">¿Sabías que?</string>
+    <string name="info_dialog_message">Las actualizaciones de tequilaOS son paquetes de instalación completos, lo que significa que siempre puedes instalar la última actualización, ¡incluso si se han saltado algunas de las intermedias!</string>
     <string name="info_dialog_ok">¡Gracias por la información!</string>
 </resources>
