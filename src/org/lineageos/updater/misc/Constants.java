@@ -42,7 +42,7 @@ public final class Constants {
     public static final String PROP_BUILD_VERSION = "ro.tequila.build.version";
     public static final String PROP_DEVICE = "ro.tequila.device";
     public static final String PROP_NEXT_DEVICE = "ro.updater.next_device";
-    public static final String PROP_RELEASE_TYPE = "ro.tequila.releasetype";
+    public static final String PROP_VARIANT = "ro.tequila.variant";
     public static final String PROP_UPDATER_ALLOW_DOWNGRADING = "tequila.updater.allow_downgrading";
     public static final String PROP_UPDATER_URI = "tequila.updater.uri";
 

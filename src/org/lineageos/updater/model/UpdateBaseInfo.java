@@ -22,7 +22,7 @@ public interface UpdateBaseInfo {
 
     long getTimestamp();
 
-    String getType();
+    String getVariant();
 
     String getVersion();
 

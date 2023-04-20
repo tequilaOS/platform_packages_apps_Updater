@@ -21,7 +21,7 @@ public class UpdateBase implements UpdateBaseInfo {
     private String mDownloadUrl;
     private String mDownloadId;
     private long mTimestamp;
-    private String mType;
+    private String mVariant;
     private String mVersion;
     private long mFileSize;
 
@@ -33,7 +33,7 @@ public class UpdateBase implements UpdateBaseInfo {
         mDownloadUrl = update.getDownloadUrl();
         mDownloadId = update.getDownloadId();
         mTimestamp = update.getTimestamp();
-        mType = update.getType();
+        mVariant = update.getVariant();
         mVersion = update.getVersion();
         mFileSize = update.getFileSize();
     }
@@ -66,12 +66,12 @@ public class UpdateBase implements UpdateBaseInfo {
     }
 
     @Override
-    public String getType() {
-        return mType;
+    public String getVariant() {
+        return mVariant;
     }
 
-    public void setType(String type) {
-        mType = type;
+    public void setVariant(String variant) {
+        mVariant = variant;
     }
 
     @Override

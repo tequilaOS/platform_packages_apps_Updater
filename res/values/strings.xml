@@ -29,7 +29,6 @@
     <!--
         Optional placeholders replaced at runtime:
           {device} - Device name
-          {type} - Build type
     -->
     <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/tequilaOS/tequila_ota/main/devices/{device}.json</string>
 
