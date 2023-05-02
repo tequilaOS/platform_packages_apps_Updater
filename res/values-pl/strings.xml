@@ -121,4 +121,10 @@
     <string name="info_dialog_title">Czy wiedziałeś?</string>
     <string name="info_dialog_message">Aktualizacje tequilaOS to pełne pakiety instalacyjne. Oznacza to, że zawsze możesz zainstalować tylko najnowszą aktualizację, nawet jeśli poprzednie zostały pominięte!</string>
     <string name="info_dialog_ok">Dobrze wiedzieć!</string>
+    <string name="local_update_import">Aktualizacja lokalna</string>
+    <string name="local_update_import_progress">Importowanie aktualizacji lokalnej\u2026</string>
+    <string name="local_update_import_success">%1$s zostało zaimportowane. Czy chcesz to zainstalować?</string>
+    <string name="local_update_import_failure">Nie udało się zaimportować aktualizacji lokalnej</string>
+    <string name="local_update_import_install">Instaluj</string>
+    <string name="local_update_name">Aktualizacja lokalna</string>
 </resources>
