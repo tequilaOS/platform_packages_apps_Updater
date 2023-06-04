@@ -112,4 +112,10 @@
     <string name="info_dialog_title">Tahukah Anda?</string>
     <string name="info_dialog_message">Pembaruan LineageOS adalah paket instalasi lengkap. Itu berarti Anda selalu dapat menginstal hanya pembaruan terbaru, bahkan jika Anda melewatkan beberapa di antaranya!</string>
     <string name="info_dialog_ok">Terima kasih atas infonya!</string>
+    <string name="local_update_import">Pembaruan lokal</string>
+    <string name="local_update_import_progress">Mengimpor pembaruan lokal\u2026</string>
+    <string name="local_update_import_success">%1$s telah diimpor. Apakah Anda ingin menginstalnya?</string>
+    <string name="local_update_import_failure">Gagal mengimpor pembaruan lokal</string>
+    <string name="local_update_import_install">Instal</string>
+    <string name="local_update_name">Pembaruan lokal</string>
 </resources>

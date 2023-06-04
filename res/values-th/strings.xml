@@ -52,6 +52,7 @@
     <string name="menu_copy_url">คัดลอก URL</string>
     <string name="menu_export_update">ส่งออกการอัปเดต</string>
     <string name="menu_ab_perf_mode">จัดลำดับความสำคัญของกระบวนการอัพเดต</string>
+    <string name="menu_update_recovery">อัปเดต recovery</string>
     <string name="snack_updates_found">ไม่พบการอัปเดตใหม่</string>
     <string name="snack_no_updates_found">ไม่พบการอัปเดตใหม่</string>
     <string name="snack_updates_check_failed">การตรวจสอบอัปเดตล้มเหลว โปรดตรวจสอบการเชื่อมต่ออินเตอร์เน็ตแล้วลองใหม่</string>
@@ -98,4 +99,6 @@
     <string name="new_updates_channel_title">การอัปเดตใหม่</string>
     <string name="ongoing_channel_title">การดาวน์โหลดที่กำลังดำเนินอยู่</string>
     <string name="update_failed_channel_title">การอัปเดตล้มเหลว</string>
+    <string name="local_update_import_install">ติดตั้ง</string>
+    <string name="local_update_name">เลือกไฟล์อัปเดต</string>
 </resources>
