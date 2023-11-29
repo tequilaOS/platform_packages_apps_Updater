@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2017-2020 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Абнаўлення</string>
+    <string name="display_name">Абнаўлення</string>
+    <string name="verification_failed_notification">Памылка верыфікацыі</string>
+    <string name="verifying_download_notification">Верыфікацыя абнаўлення</string>
+    <string name="downloading_notification">Запампоўка</string>
+    <string name="download_paused_notification">Запампоўка на паўзе</string>
+    <string name="download_paused_error_notification">Памылка запампоўкі</string>
+    <string name="download_completed_notification">Запампоўка скончылася</string>
+    <string name="download_starting_notification">Запуск запампоўкі</string>
+    <string name="update_failed_notification">Памылка абнаўлення</string>
+    <string name="installation_suspended_notification">Інсталяцыя прыпынена</string>
+    <string name="new_updates_found_title">Новыя абнаўлення</string>
+    <string name="text_download_speed">%1$s, %2$s/с</string>
+    <string name="pause_button">Паўза</string>
+    <string name="resume_button">Аднавіць</string>
+    <string name="suspend_button">Прыпыніць</string>
+    <string name="installing_update">Устаноўка абнаўлення</string>
+    <string name="installing_update_error">Памылка ўстаноўкі</string>
+    <string name="installing_update_finished">Абнаўленне ўстаноўлена</string>
+    <string name="finalizing_package">Завяршэнне ўстаноўкі пакета</string>
+    <string name="preparing_ota_first_boot">Падрыхтоўка к першаму запуску</string>
+    <string name="dialog_prepare_zip_message">Падрыхтоўка абнаўлення</string>
+    <string name="dialog_battery_low_title">Нізкі зарад батарэі</string>
+    <string name="dialog_battery_low_message_pct">Зарад батарэі вельмі малы. Патрабуецца не менш чым <xliff:g id="percent_discharging">%1$d</xliff:g> зараду, каб аднавіць, або <xliff:g id="percent_charging">%2$d</xliff:g> пры падлучаным зарадным прыставаннем.</string>
+    <string name="reboot">Перазапуск</string>
+    <string name="menu_refresh">Абнавіць</string>
+    <string name="menu_preferences">Налады</string>
+    <string name="menu_auto_updates_check">Аўтаматычная праверка абнаўленняў</string>
+    <string name="menu_auto_updates_check_interval_daily">Раз у дзень</string>
+    <string name="menu_auto_updates_check_interval_weekly">Раз у тыдзень</string>
+    <string name="menu_auto_updates_check_interval_monthly">Раз у месяц</string>
+    <string name="menu_auto_updates_check_interval_never">Ніколі</string>
+    <string name="menu_auto_delete_updates">Выдаліць файлы абнаўленняў пасля ўстаноўкі</string>
+    <string name="menu_delete_update">Выдаліць</string>
+    <string name="menu_copy_url">Скапіраваць URL</string>
+    <string name="menu_export_update">Экспарт абнаўленняў</string>
+    <string name="menu_ab_perf_mode">Прыярытэт працэсу абнаўленняў</string>
+    <string name="menu_update_recovery">Абнавіць рэкаверы</string>
+    <string name="toast_forced_update_recovery">Выключыць абнаўлення tequila recovery на гэтым дэвайсу немагчыма.</string>
+    <string name="snack_updates_found">Даступны абнаўлення</string>
+    <string name="snack_no_updates_found">Абнаўленняў не знойдзена</string>
+    <string name="snack_updates_check_failed">Праверка абнаўленняў не ўдалася. Праверце падключэнне да інтэрнэту і паспрабуйце яшчэ раз.</string>
+    <string name="snack_download_failed">Запампоўка не ўдалася. Праверце падключэнне да інтэрнэту і паспрабуйце яшчэ раз.</string>
+    <string name="snack_download_verification_failed">Памылка праверкі абнаўлення.</string>
+    <string name="snack_download_verified">Запампоўка завершана.</string>
+    <string name="snack_update_not_installable">Гэтае абнаўленне не можа быць устаноўлена паверх бягучай зборкі.</string>
+    <string name="header_title_text">tequilaOS\n%1$s</string>
+    <string name="header_android_version">Android <xliff:g id="version" example="7.1.2">%1$s</xliff:g></string>
+    <string name="header_last_updates_check">Пошук абнаўленняў выконваўся: <xliff:g id="date" example="1 January 1970">%1$s</xliff:g> (<xliff:g id="time" example="01:23">%2$s</xliff:g>)</string>
+    <string name="list_build_version">tequilaOS <xliff:g id="version" example="14.1">%1$s</xliff:g></string>
+</resources>

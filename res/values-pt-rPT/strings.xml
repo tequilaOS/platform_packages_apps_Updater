@@ -107,7 +107,6 @@
     <string name="checkbox_mobile_data_warning">Não mostrar novamente</string>
     <string name="menu_mobile_data_warning">Aviso de dados móveis</string>
     <string name="blocked_update_dialog_title">Atualização bloqueada</string>
-    <string name="blocked_update_dialog_message">Esta atualização não pode ser instalada usando a aplicação do atualizador.  Por favor, leia <xliff:g id="info_url">%1$s </xliff:g> para mais informações.</string>
     <string name="export_channel_title">Conclusão da exportação</string>
     <string name="new_updates_channel_title">Novas atualizações</string>
     <string name="ongoing_channel_title">Transferências em curso</string>

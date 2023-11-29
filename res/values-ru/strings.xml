@@ -91,19 +91,19 @@
     <string name="toast_already_exporting">Экспорт уже выполняется</string>
     <string name="toast_export_started">Экспорт начат</string>
     <plurals name="eta_seconds">
-        <item quantity="one">осталась <xliff:g id="count">%d</xliff:g> секунда</item>
+        <item quantity="one">осталась 1 секунда</item>
         <item quantity="few">осталось <xliff:g id="count">%d</xliff:g> секунды</item>
         <item quantity="many">осталось <xliff:g id="count">%d</xliff:g> секунд</item>
         <item quantity="other">осталось <xliff:g id="count">%d</xliff:g> секунд</item>
     </plurals>
     <plurals name="eta_minutes">
-        <item quantity="one">осталась <xliff:g id="count">%d</xliff:g> минута</item>
+        <item quantity="one">осталось 1 минута</item>
         <item quantity="few">осталось <xliff:g id="count">%d</xliff:g> минуты</item>
         <item quantity="many">осталось <xliff:g id="count">%d</xliff:g> минут</item>
         <item quantity="other">осталось <xliff:g id="count">%d</xliff:g> минут</item>
     </plurals>
     <plurals name="eta_hours">
-        <item quantity="one">остался <xliff:g id="count">%d</xliff:g> час</item>
+        <item quantity="one">остался 1 час</item>
         <item quantity="few">осталось <xliff:g id="count">%d</xliff:g> часа</item>
         <item quantity="many">осталось <xliff:g id="count">%d</xliff:g> часов</item>
         <item quantity="other">осталось <xliff:g id="count">%d</xliff:g> часов</item>

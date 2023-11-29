@@ -85,36 +85,11 @@
     <string name="notification_export_success">تم تصدير التحديث</string>
     <string name="notification_export_fail">خطأ في التصدير</string>
     <string name="toast_already_exporting">جاري تصدير تحديث بالفعل</string>
-    <plurals name="eta_seconds">
-        <item quantity="zero"><xliff:g id="count">%d</xliff:g> ثانية متبقية</item>
-        <item quantity="one"><xliff:g id="count">%d</xliff:g> ثانية متبقية</item>
-        <item quantity="two"><xliff:g id="count">%d</xliff:g> ثانية متبقية</item>
-        <item quantity="few"><xliff:g id="count">%d</xliff:g> ثانية متبقية</item>
-        <item quantity="many"><xliff:g id="count">%d</xliff:g> ثانية متبقية</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> ثانية متبقية</item>
-    </plurals>
-    <plurals name="eta_minutes">
-        <item quantity="zero"><xliff:g id="count">%d</xliff:g> دقائق متبقية</item>
-        <item quantity="one"><xliff:g id="count">%d</xliff:g> دقيقة متبقية</item>
-        <item quantity="two"><xliff:g id="count">%d</xliff:g> دقيقة متبقية</item>
-        <item quantity="few"><xliff:g id="count">%d</xliff:g> دقيقة متبقية</item>
-        <item quantity="many"><xliff:g id="count">%d</xliff:g> دقيقة متبقية</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> دقيقة متبقية</item>
-    </plurals>
-    <plurals name="eta_hours">
-        <item quantity="zero"><xliff:g id="count">%d</xliff:g> ساعات متبقية</item>
-        <item quantity="one"><xliff:g id="count">%d</xliff:g> ساعات متبقية</item>
-        <item quantity="two"><xliff:g id="count">%d</xliff:g> ساعات متبقية</item>
-        <item quantity="few"><xliff:g id="count">%d</xliff:g> ساعات متبقية</item>
-        <item quantity="many"><xliff:g id="count">%d</xliff:g> ساعات متبقية</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> ساعات متبقية</item>
-    </plurals>
     <string name="update_on_mobile_data_title">تنبيه</string>
     <string name="update_on_mobile_data_message">أنت على وشك أن تقوم بتنزيل حزمة تحديث باستخدام البيانات مما سيتسبب في استخدام عالي للبيانات. هل تريد المتابعة؟</string>
     <string name="checkbox_mobile_data_warning">لا تظهر هذا مجدداً</string>
     <string name="menu_mobile_data_warning">تحذير البيانات</string>
     <string name="blocked_update_dialog_title">التحديث محظور</string>
-    <string name="blocked_update_dialog_message">لا يمكن تثبيت التحديث باستخدام تطبيق المُحدث. برجاء قراءة <xliff:g id="info_url">%1$s </xliff:g> للحصول على مزيد من المعلومات.</string>
     <string name="export_channel_title">اكتمال التصدير</string>
     <string name="new_updates_channel_title">تحديثات جديدة</string>
     <string name="ongoing_channel_title">التنزيلات الحالية</string>

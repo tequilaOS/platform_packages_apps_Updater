@@ -90,24 +90,6 @@
     <string name="notification_export_fail">Napaka pri izvozu</string>
     <string name="toast_already_exporting">Posodobitev se že izvaža</string>
     <string name="toast_export_started">Začetek izvoza</string>
-    <plurals name="eta_seconds">
-        <item quantity="one"><xliff:g id="count">%d</xliff:g> sekunda preostala</item>
-        <item quantity="two"><xliff:g id="count">%d</xliff:g> sekundi preostali</item>
-        <item quantity="few"><xliff:g id="count">%d</xliff:g> sekunde preostale</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> sekund preostalo</item>
-    </plurals>
-    <plurals name="eta_minutes">
-        <item quantity="one"><xliff:g id="count">%d</xliff:g> minuta preostala</item>
-        <item quantity="two"><xliff:g id="count">%d</xliff:g> minuti preostali</item>
-        <item quantity="few"><xliff:g id="count">%d</xliff:g> minute preostale</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> minut preostalo</item>
-    </plurals>
-    <plurals name="eta_hours">
-        <item quantity="one"><xliff:g id="count">%d</xliff:g> ura preostala</item>
-        <item quantity="two"><xliff:g id="count">%d</xliff:g> uri preostali</item>
-        <item quantity="few"><xliff:g id="count">%d</xliff:g> ure preostale</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> ur preostalo</item>
-    </plurals>
     <string name="update_on_mobile_data_title">Opozorilo</string>
     <string name="update_on_mobile_data_message">Ste pred prenosom posodobitvenega paketa z uporabo mobilnih podatkov, kar bo verjetno povzročilo visoko porabo podatkov. Ali želite nadaljevati?</string>
     <string name="checkbox_mobile_data_warning">Ne prikaži ponovno</string>

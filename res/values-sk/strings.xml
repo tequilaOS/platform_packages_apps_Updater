@@ -108,7 +108,6 @@
     <string name="checkbox_mobile_data_warning">Nabudúce nezobrazovať</string>
     <string name="menu_mobile_data_warning">Upozornenie mobilných dát</string>
     <string name="blocked_update_dialog_title">Aktualizácia bola zablokovaná</string>
-    <string name="blocked_update_dialog_message">Táto aktualizácia sa nedá nainštalovať pomocou aplikácie aktualizátora.  Prečítajte si <xliff:g id="info_url">%1$s </xliff:g> pre viac informácií.</string>
     <string name="export_channel_title">Dokončenie exportu</string>
     <string name="new_updates_channel_title">Nové aktualizácie</string>
     <string name="ongoing_channel_title">Prebiehajúce sťahovania</string>

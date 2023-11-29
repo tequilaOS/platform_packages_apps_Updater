@@ -99,7 +99,6 @@
     <string name="checkbox_mobile_data_warning">不再顯示</string>
     <string name="menu_mobile_data_warning">行動數據警告</string>
     <string name="blocked_update_dialog_title">更新已被封鎖</string>
-    <string name="blocked_update_dialog_message">無法使用更新應用程式安裝此更新。 有關詳細資訊，請閱讀 <xliff:g id="info_url">%1$s </xliff:g> 。</string>
     <string name="export_channel_title">匯出完成</string>
     <string name="new_updates_channel_title">有新的更新</string>
     <string name="ongoing_channel_title">目前下載</string>

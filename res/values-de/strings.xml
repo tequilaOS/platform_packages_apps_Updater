@@ -81,7 +81,6 @@
     <string name="confirm_delete_dialog_message">Soll die ausgewählte Update-Datei gelöscht werden?</string>
     <string name="apply_update_dialog_title">Update installieren</string>
     <string name="apply_update_dialog_message">Bereit zur Installation von <xliff:g id="update_name">%1$s</xliff:g>\n\nWenn du <xliff:g id="ok">%2$s</xliff:g> drückst, wird das Gerät im Recovery-Modus gestartet, um das Update durchzuführen.\n\nHinweis: Diese Funktion erfordert ein kompatibles Recovery-System, anderenfalls muss das Update manuell installiert werden.</string>
-    <string name="apply_update_dialog_message_ab">Bereit zur Installation von <xliff:g id="update_name">%1$s</xliff:g>\n\nWenn du <xliff:g id="ok">%2$s drückst</xliff:g>, beginnt das Gerät im Hintergrund mit der Installation.\n\nSobald diese abgeschlossen ist, wirst du zum Neustart aufgefordert.</string>
     <string name="cancel_installation_dialog_message">Installation abbrechen?</string>
     <string name="label_download_url">Download URL</string>
     <string name="toast_download_url_copied">URL wurde kopiert</string>
@@ -107,7 +106,6 @@
     <string name="checkbox_mobile_data_warning">Nicht wieder anzeigen</string>
     <string name="menu_mobile_data_warning">Mobildaten-Warnung</string>
     <string name="blocked_update_dialog_title">Update blockiert</string>
-    <string name="blocked_update_dialog_message">Dieses Update kann mit der Updater-App nicht installiert werden. Für weitere Informationen lies bitte <xliff:g id="info_url">%1$s </xliff:g>.</string>
     <string name="export_channel_title">Export abgeschlossen</string>
     <string name="new_updates_channel_title">Neue Updates</string>
     <string name="ongoing_channel_title">Laufende Downloads</string>
